@@ -89,7 +89,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           {/* Primary CTA */}
           <a
-            href="https://handballpro.printomrdesigne.workers.dev/"
+            href="https://handballscorepro.appsports.store/"
             target="_blank"
             rel="noopener noreferrer"
             onClick={(e) => {
@@ -152,7 +152,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           </a>
           <div className="pt-2">
             <a
-              href="https://handballpro.printomrdesigne.workers.dev/"
+              href="https://handballscorepro.appsports.store/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold text-white bg-blue-600 rounded-lg"

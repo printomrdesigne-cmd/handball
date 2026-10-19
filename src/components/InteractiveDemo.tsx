@@ -629,7 +629,7 @@ export const InteractiveDemo: React.FC<InteractiveDemoProps> = ({ t }) => {
                   </div>
                   <div className="flex justify-between items-center pt-1">
                     <button onClick={clearSignature} className="text-red-600 text-[10px]">Effacer</button>
-                    <span className="text-[10px] text-slate-500">Document certifié HD · handballpro.printomrdesigne.workers.dev</span>
+                    <span className="text-[10px] text-slate-500">Document certifié HD · handballscorepro.appsports.store</span>
                   </div>
                 </div>
               </div>

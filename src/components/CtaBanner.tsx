@@ -39,7 +39,7 @@ export const CtaBanner: React.FC<CtaBannerProps> = ({ t, onOpenOrder }) => {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-2">
           <a
-            href="https://handballpro.printomrdesigne.workers.dev/"
+            href="https://handballscorepro.appsports.store/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 px-8 py-4 text-base font-bold text-white bg-blue-600 hover:bg-blue-500 rounded-xl shadow-xl shadow-blue-600/30 transition-all text-center whitespace-nowrap shrink-0"

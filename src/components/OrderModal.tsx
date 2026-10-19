@@ -31,7 +31,7 @@ export const OrderModal: React.FC<OrderModalProps> = ({
       setIsSubmitting(false);
       setIsSuccess(true);
       setTimeout(() => {
-        window.open('https://handballpro.printomrdesigne.workers.dev/', '_blank');
+        window.open('https://handballscorepro.appsports.store/', '_blank');
       }, 1500);
     }, 1000);
   };
@@ -71,7 +71,7 @@ export const OrderModal: React.FC<OrderModalProps> = ({
             <h4 className="text-lg font-bold text-white">Demande enregistrée avec succès !</h4>
             <p className="text-sm text-slate-300">
               Redirection en cours vers l'application officielle sur{' '}
-              <span className="text-blue-400 font-semibold">handballpro.printomrdesigne.workers.dev</span>...
+              <span className="text-blue-400 font-semibold">handballscorepro.appsports.store</span>...
             </p>
           </div>
         ) : (
@@ -81,9 +81,9 @@ export const OrderModal: React.FC<OrderModalProps> = ({
               <label className="text-xs font-semibold text-slate-300">Formule sélectionnée :</label>
               <div className="grid grid-cols-3 gap-2">
                 {[
-                  { id: 'tournament', label: 'Découverte', price: '10 DH' },
+                  { id: 'tournament', label: 'Découverte', price: '30 DH' },
                   { id: 'club', label: 'Annuel (30 DH)', price: '30 DH' },
-                  { id: 'league', label: 'Ligue / 5', price: '100 DH' },
+                  { id: 'league', label: 'Ligue / 5', price: 'Sur devis' },
                 ].map((item) => (
                   <button
                     key={item.id}

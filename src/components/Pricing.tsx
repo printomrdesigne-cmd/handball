@@ -80,8 +80,8 @@ export const Pricing: React.FC<PricingProps> = ({ t, onOpenOrder }) => {
 
                 {/* Card CTA */}
                 <div className="pt-4">
-                  <a
-                    href="https://handballpro.printomrdesigne.workers.dev/"
+                    <a
+                    href="https://handballscorepro.appsports.store/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`w-full py-3.5 px-4 rounded-xl font-bold text-sm flex items-center justify-center gap-2 transition-all text-center whitespace-nowrap shrink-0 ${

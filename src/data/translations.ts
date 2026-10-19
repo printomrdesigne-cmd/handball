@@ -373,7 +373,7 @@ export const translations: Record<Language, TranslationDictionary> = {
           id: 'tournament',
           name: 'Accès Découverte',
           tagline: 'Idéal pour tester l\'application sur un tournoi ou un week-end.',
-          price: '10 DH',
+          price: '30 DH',
           period: 'pour 7 jours',
           features: [
             'Chronomètre officiel complet',
@@ -406,8 +406,8 @@ export const translations: Record<Language, TranslationDictionary> = {
           id: 'league',
           name: 'Licence Établissement / Ligue',
           tagline: 'Pour équiper l\'ensemble des salles d\'un comité ou d\'une délégation.',
-          price: '100 DH',
-          period: 'pour 5 comptes',
+          price: 'Sur devis',
+          period: 'sur demande',
           features: [
             '5 accès complets pour vos différents responsables',
             'Personnalisation avec logo de l\'établissement',
@@ -417,7 +417,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         },
       ],
       guarantee: 'Garantie satisfait ou remboursé sous 14 jours.',
-      instantAccess: 'Accès immédiat et configuration en 30 secondes sur https://handballpro.printomrdesigne.workers.dev/.',
+      instantAccess: 'Accès immédiat et configuration en 30 secondes sur https://handballscorepro.appsports.store/.',
     },
     testimonials: {
       kicker: 'Retour du Terrain',
@@ -694,7 +694,7 @@ export const translations: Record<Language, TranslationDictionary> = {
           id: 'tournament',
           name: 'Discovery Access',
           tagline: 'Ideal for testing the app during a tournament or weekend.',
-          price: '10 DH',
+          price: '30 DH',
           period: 'for 7 days',
           features: [
             'Complete official match clock',
@@ -727,8 +727,8 @@ export const translations: Record<Language, TranslationDictionary> = {
           id: 'league',
           name: 'Institution / League License',
           tagline: 'Equip multiple halls for a sports delegation or school committee.',
-          price: '100 DH',
-          period: 'for 5 accounts',
+          price: 'On request',
+          period: 'on demand',
           features: [
             '5 full accounts for your sports officials',
             'Custom branding with organization logo',
@@ -738,7 +738,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         },
       ],
       guarantee: '14-day money-back guarantee.',
-      instantAccess: 'Instant access and setup in 30 seconds on https://handballpro.printomrdesigne.workers.dev/.',
+      instantAccess: 'Instant access and setup in 30 seconds on https://handballscorepro.appsports.store/.',
     },
     testimonials: {
       kicker: 'Field Testimonials',
@@ -803,7 +803,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       subtitle: 'Support the developer for only 30 DH per year and enjoy the ultimate scorer table app.',
       primaryBtn: 'Get Web App (30 DH)',
       secondaryBtn: 'Explore Live Simulator',
-      secureNotice: 'Secure checkout · Instant activation · Hosted on https://handballpro.printomrdesigne.workers.dev/',
+      secureNotice: 'Secure checkout · Instant activation · Hosted on https://handballscorepro.appsports.store/',
     },
     footer: {
       brandTagline: 'The gold standard digital solution for handball scorer tables, timing, and officiating.',
@@ -812,7 +812,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       supportTitle: 'Contact & Support',
       contactNotice: 'Customer support and developer assistance available 7/7.',
       rights: 'All rights reserved. HandballScore Pro is operated by PrintOMR Designe.',
-      disclaimer: 'Hosted on https://handballpro.printomrdesigne.workers.dev/',
+      disclaimer: 'Hosted on https://handballscorepro.appsports.store/',
     },
   },
   ar: {
@@ -1011,7 +1011,7 @@ export const translations: Record<Language, TranslationDictionary> = {
           id: 'tournament',
           name: 'تجربة سريعة',
           tagline: 'مثالي لتجربة التطبيق خلال بطولة عطلة نهاية الأسبوع.',
-          price: '10 درهم',
+          price: '30 درهم',
           period: 'لمدة 7 أيام',
           features: [
             'ساعة مباراة رسمية كاملة',
@@ -1044,8 +1044,8 @@ export const translations: Record<Language, TranslationDictionary> = {
           id: 'league',
           name: 'باقة المندوبية / المؤسسة',
           tagline: 'لتجهيز عدة قاعات وأقسام رياضية متعددة.',
-          price: '100 درهم',
-          period: 'لـ 5 حسابات',
+          price: 'حسب الطلب',
+          period: 'على حسب الطلب',
           features: [
             '5 حسابات كاملة للمسؤولين الرياضيين',
             'تخصيص بشعار المؤسسة أو اللجنة',
@@ -1129,7 +1129,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       supportTitle: 'الدعم الفني والتواصل',
       contactNotice: 'الدعم الفني ومساعدة المبرمج متاحون طيلة أيام الأسبوع.',
       rights: 'جميع الحقوق محفوظة. HandballScore Pro مقدم من PrintOMR Designe.',
-      disclaimer: 'مستضاف على الرابط الرسمي https://handballpro.printomrdesigne.workers.dev/',
+      disclaimer: 'مستضاف على الرابط الرسمي https://handballscorepro.appsports.store/',
     },
   },
 };

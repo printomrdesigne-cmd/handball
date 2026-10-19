@@ -31,12 +31,12 @@ export const Footer: React.FC<FooterProps> = ({ t }) => {
               <Globe className="w-4 h-4 text-blue-400" />
               <span>Hébergé sur : </span>
               <a
-                href="https://handballpro.printomrdesigne.workers.dev/"
+                href="https://handballscorepro.appsports.store/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:underline flex items-center gap-1 font-semibold"
               >
-                <span>handballpro.printomrdesigne.workers.dev</span>
+                <span>handballscorepro.appsports.store</span>
                 <ArrowUpRight className="w-3.5 h-3.5" />
               </a>
             </div>

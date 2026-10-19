@@ -61,7 +61,7 @@ export const Hero: React.FC<HeroProps> = ({ t, onOpenOrder }) => {
             {/* Call to Actions */}
             <div className="pt-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
               <a
-                href="https://handballpro.printomrdesigne.workers.dev/"
+                href="https://handballscorepro.appsports.store/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2.5 px-6 py-3.5 text-base font-bold text-white bg-blue-600 hover:bg-blue-500 active:scale-98 rounded-xl shadow-lg shadow-blue-600/25 transition-all text-center whitespace-nowrap shrink-0 cursor-pointer"
