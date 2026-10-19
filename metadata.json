@@ -1,0 +1,6 @@
+{
+  "name": "HandballScore Pro - Table de Marque & Arbitrage Officiel",
+  "description": "Landing page officielle de HandballScore Pro, la solution numérique tout-en-un pour table de marque de handball : chronomètre homologué IHF, gestion des exclusions 2 min et feuille de match électronique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
